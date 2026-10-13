@@ -1,0 +1,19 @@
+{
+  "wheel_id": 352,
+  "structure": "umbrella",
+  "slug": "mytoowoomba-103",
+  "project": "business-directory-toowoomba-comparison-bdde994260a1134d9d40",
+  "parent_t1_ref": "mytoowoomba-151",
+  "node_role": "feeder",
+  "money_target": "mytoowoomba.com.au",
+  "primary_kw": "business directory toowoomba comparison",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/business-directory-toowoomba-comparison-bdde994260a1134d9d40/",
+  "writeback_nonce": "92ca0ba3a1fa2494",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/business-directory-toowoomba-2ed4888ea4e8946933d4d77789f8bd9ca0/",
+      "anchor": "business directory toowoomba",
+      "rel": "follow"
+    }
+  ]
+}
